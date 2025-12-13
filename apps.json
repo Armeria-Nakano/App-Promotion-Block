@@ -13,7 +13,7 @@
       "tagline": "クーポン発行を、もっと手軽に",
       "description": "お手軽クーポン発行アプリ。割引コードの作成・管理がシンプルに。",
       "icon": "https://cdn.shopify.com/s/files/applications/5a90ee4fddb74d1d6e5993c6e398bf3a.png",
-      "url": "https://apps.shopify.com/coupon-jp",
+      "url": "https://apps.shopify.com/jp-2",
       "enabled": true,
       "priority": 1
     },
@@ -23,7 +23,7 @@
       "tagline": "お問い合わせ対応を、もっとスマートに",
       "description": "ノーコードで作れるお問い合わせフォーム。",
       "icon": "https://cdn.shopify.com/s/files/applications/59493fe2fbdf49af814fc59118be9299.png",
-      "url": "https://apps.shopify.com/mailform-jp",
+      "url": "https://apps.shopify.com/jp-1",
       "enabled": true,
       "priority": 2
     },
@@ -33,7 +33,7 @@
       "tagline": "営業日表示を、もっと分かりやすく",
       "description": "出荷日・サポート対応日をカレンダーで表示。",
       "icon": "https://cdn.shopify.com/s/files/applications/0beb6e1d31025784c451ba57ba0d58e7.png",
-      "url": "https://apps.shopify.com/calendar-jp",
+      "url": "https://apps.shopify.com/jp-3",
       "enabled": true,
       "priority": 3
     }
