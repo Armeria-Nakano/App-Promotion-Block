@@ -10,7 +10,7 @@
     {
       "id": "coupon-jp",
       "name": "クーポン.JP",
-      "description": "お手軽クーポン発行アプリ。割引コードの作成・管理がシンプルに。",
+      "description": "Shopifyディスカウントを国内向けの「獲得型」に変えてストアの成長を加速するマーケティングアプリ。",
       "icon": "https://cdn.shopify.com/s/files/applications/5a90ee4fddb74d1d6e5993c6e398bf3a.png",
       "url": "https://apps.shopify.com/jp-2",
       "enabled": true,
@@ -19,7 +19,7 @@
     {
       "id": "mailform-jp",
       "name": "メールフォーム.JP",
-      "description": "ノーコードで作れるお問い合わせフォーム。",
+      "description": "「ストアのドメイン」で運用可能な自由にコードが記載できて、画像添付可能な高機能メールフォーム。",
       "icon": "https://cdn.shopify.com/s/files/applications/59493fe2fbdf49af814fc59118be9299.png",
       "url": "https://apps.shopify.com/jp-1",
       "enabled": true,
