@@ -28,7 +28,7 @@
     {
       "id": "calendar-jp",
       "name": "カレンダー.JP",
-      "description": "出荷日・サポート対応日をカレンダーで表示。",
+      "description": "日本の祝日に対応・日本時間での日付変更、完全国内向け営業日カレンダー。",
       "icon": "https://cdn.shopify.com/s/files/applications/0beb6e1d31025784c451ba57ba0d58e7.png",
       "url": "https://apps.shopify.com/jp-3",
       "enabled": true,
