@@ -1,11 +1,4 @@
 {
-  "version": "1.0.0",
-  "updatedAt": "2025-06-13T10:00:00Z",
-  "settings": {
-    "title": "おすすめアプリ",
-    "maxDisplay": 3,
-    "cacheTTL": 3600
-  },
   "apps": [
     {
       "id": "coupon-jp",
